@@ -36,7 +36,7 @@ My first project in React Native: Hello worl!, Counter, StyleSheet, Box object m
 
 ## 🌟 Curso
 
-Curso: React Native: Aplicaciones nativas para IOS y Android
-Profesor: Fernando Herrera
-Plataforma: Udemy
+* Curso: React Native: Aplicaciones nativas para IOS y Android
+* Profesor: Fernando Herrera
+* Plataforma: Udemy
 
