@@ -33,5 +33,3 @@ My first project in React Native: Hello worl!, Counter, StyleSheet, Box object m
 ## 🌟 Autor
 
 * **Silvia C. Navarro**  - [@silviajcn](https://github.com/silviajcn)
-
-![logoo](https://user-images.githubusercontent.com/88461234/150699439-457e6941-d9cc-482b-81d9-b6a7249ec642.png)
