@@ -1,4 +1,4 @@
-# Contador-React-Native-
+# Contador en React Native
 
 My first project in React Native: Hello worl!, Counter, StyleSheet, Box object model, Position and Flex Layout)
 
