@@ -30,6 +30,13 @@ My first project in React Native: Hello worl!, Counter, StyleSheet, Box object m
 ## Practicas Flex Box, Position
 <img width="35%" alt="flex box" src="https://media.giphy.com/media/UMwGGVLQGB2GEonHpn/giphy.gif" />
 
-## 🌟 Autor
+## Autor
 
 * **Silvia C. Navarro**  - [@silviajcn](https://github.com/silviajcn)
+
+## 🌟 Curso
+
+Curso: React Native: Aplicaciones nativas para IOS y Android
+Profesor: Fernando Herrera
+Plataforma: Udemy
+
